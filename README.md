@@ -7,7 +7,7 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://ssthaisha.github.io/home">ssthaisha.github.io/home</a>
+    <a href="https://ssthaisha.github.io">ssthaisha.github.io</a>
     <br />
     <br />
     <a href="https://ssthaisha.github.io">About Me</a>
