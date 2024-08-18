@@ -7,21 +7,13 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://ssthaisha.github.io/home">ssthaisha.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://ssthaisha.github.io">About Me</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
-[![Node Version](https://img.shields.io/static/v1?label=Node&message=^20.10.0&color=026e00&style=for-the-badge)](https://nodejs.org)
-[![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -67,10 +59,6 @@
   </ol>
 </details>
 
-# About the project
-
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
-
 
 ## Technology stack 🛠️
 
@@ -105,10 +93,6 @@ Dependencies defined in package.json:
   - Footer Note (optional)
   - Copyrights - open source
   - Acknowledgements
-
-# Getting started 💗
-
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
 
 ## Prerequisites 🍪
 
